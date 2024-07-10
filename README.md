@@ -1,3 +1,1 @@
-Corrected texts in name in line 32
-Corrected profession in line 35
-Corrected qoute in line 58
+This web page is about me and my skills that i learned as the frontend developer
